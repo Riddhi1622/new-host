@@ -126,6 +126,7 @@ const Contact = () => {
           </button>
         </form>
       </motion.div>
+      
 
     </div> 
 
